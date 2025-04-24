@@ -68,7 +68,7 @@ Each folder/topic contains:
 - Problem Statement
 - Theory/Concept Summary
 - Code Implementation
-- Output/Screenshots (if applicable)
+- Output/Screenshots 
 - Conclusion
 
 ---
